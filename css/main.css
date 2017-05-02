@@ -1,0 +1,144 @@
+* {
+	font-family: 'Merriweather', serif;
+}
+i {
+	font-family: 'Merriweather', serif;
+}
+ul {
+	float: right;
+	margin-top: 30px;
+	padding-right: 80px;
+}
+.container-fluid {
+	background-color: #A6D2DB;
+	height: 400px;
+}
+#logo {
+	float: left;
+	display: inline-block;
+}
+.nav > li > a:hover, .nav > li > a:focus {
+	background-color: #3A4B4F;
+	color: #A6D2DB;
+}
+.nav-pills li a {
+	color: #3A4B4F;
+}
+.fa-heart {
+	float: left;
+	color: #3A4B4F;
+	padding-left: 80px;
+	padding-top: 20px;
+}
+.col-md-6 {
+	text-align: center;
+	color: white;
+	font-size: 50px;
+	padding-top: 40px;
+}
+.carousel-indicators {
+	top: 285px;
+}
+.carousel-inner {
+	padding-left: 220px;
+}
+.fa-heart:before {
+	padding-right: 15px;
+}
+.container {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.col-md-4 img {
+	text-align: center;
+}
+.col-md-4 {
+	text-align: center;
+	padding-top: 40px;
+}
+.cartoons {
+	text-align: center;
+	padding-top: 40px;
+	height: 850px;
+	background-color: #99D2A5;
+	color: white;
+}
+.cartoons ul {
+	padding-top: 50px;
+	margin: 0 auto;
+	margin-right: 240px;
+
+}
+#all {
+	background-color: white;
+	padding: 5px 5px 5px 5px;
+    border: solid;
+    border-radius: 5px;
+    margin-right: 40px;
+}
+#web {
+	border: solid;
+    padding: 5px 7px 5px 5px;
+    border-radius: 5px;
+    border-width: 2px;
+}
+.list li {
+	display: inline-block;
+	padding: 20px;
+}
+.btn-default {
+	background-color: white;
+	/*text-align: center;*/
+	width: 10%;
+	height: 45px;
+	border: none;
+	border-radius: 5px;
+}
+.content {
+	height: 400px;
+}
+.icons {
+	height: 580px;
+	background-color: #E0B5C6;
+	padding-top: 40px;
+/*	display: inline-block;*/
+}
+.icons h3 {
+	text-align: center;
+	color: white;
+}
+.icons p {
+	text-align: center;
+	color: white;
+}
+.twonested {
+	height: 300px;
+	width: 210px;
+	background-color: white;
+	margin-left: 200px;
+	margin-top: 30px;
+}
+.twonested h3 {
+	color: black;
+	padding-top: 165px;
+}
+.twonested h4 {
+	font-size: 10px;
+	text-align: center;
+
+}
+.twonested p {
+	color: black;
+}
+.user img {
+	width: 210px;
+	height: 150px;
+	bottom: 150px;
+	position: absolute;
+}
+.social {
+	display: inline-flex;
+}
+
+
+
